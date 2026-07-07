@@ -1,0 +1,6 @@
+python-telegram-bot==21.6
+pycryptodome>=3.19.0
+requests>=2.31.0
+cloudscraper>=1.2.71
+colorama>=0.4.6
+rich>=13.0.0
