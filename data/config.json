@@ -1,0 +1,23 @@
+{
+  "bot_token": "8442324080:AAHd8V_3jm4On4NkRovNjIIwiorlUso5IVc",
+  "admin_ids": [
+    8632939616
+  ],
+  "channel_username": "ziaachannel",
+  "locked": false,
+  "global_limit": null,
+  "vip_limit": null,
+  "max_lines_per_check": null,
+  "default_threads": 20,
+  "max_concurrent": 30,
+  "cooldown_sessions": null,
+  "cooldown_minutes": 30,
+  "maintenance_mode": false,
+  "maintenance_message": "\u2699\ufe0f Bot is under maintenance. Please try again later.",
+  "announcement_text": "",
+  "notify_admin_on_hit": false,
+  "welcome_message": "",
+  "bot_name": "Zia Codm Checker Bot",
+  "gcash_number": "09497330622",
+  "gcash_name": "J.Q."
+}
